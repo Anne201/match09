@@ -5,7 +5,7 @@
 //------------------------------
 //遊戲標題
 //------------------------------
-title = 'ㄨ和ㄩ的結合韻';
+title = 'ㄨ和ㄩ的結合韻對對碰';
 
 //------------------------------
 //卡片上文字的字體名稱
@@ -115,5 +115,5 @@ https://anne201.github.io/match09/match09/samples05/ㄩㄝ.png##https://anne201.
 https://anne201.github.io/match09/match09/samples05/ㄩㄢ.png##https://anne201.github.io/match09/match09/samples05/ㄩㄢ.mp3
 https://anne201.github.io/match09/match09/samples05/ㄩㄣ.png##https://anne201.github.io/match09/match09/samples05/ㄩㄣ.mp3
 https://anne201.github.io/match09/match09/samples05/ㄩㄥ.png##https://anne201.github.io/match09/match09/samples05/ㄩㄥ.mp3
-----*/}.toString().replace(/\r/g,"").slice("function(){/*--這一行請勿更改--".length+1,-9);
+-----*/}.toString().replace(/\r/g,"").slice("function(){/*--這一行請勿更改--".length+1,-9);
 
