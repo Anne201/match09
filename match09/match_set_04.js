@@ -5,7 +5,7 @@
 //------------------------------
 //遊戲標題
 //------------------------------
-title = 'ㄧ的結合韻對對碰-4';
+title = 'ㄧ的結合韻對對碰';
 
 //------------------------------
 //卡片上文字的字體名稱
@@ -106,7 +106,7 @@ questionLines = function(){/*--這一行請勿更改--
 https://anne201.github.io/match09/match09/samples04/ㄧㄚ.png##https://anne201.github.io/match09/match09/samples04/ㄧㄚ.mp3
 https://anne201.github.io/match09/match09/samples04/ㄧㄛ.png##https://anne201.github.io/match09/match09/samples04/ㄧㄛ.mp3
 https://anne201.github.io/match09/match09/samples04/ㄧㄝ.png##https://anne201.github.io/match09/match09/samples04/ㄧㄝ.mp3
-https://anne201.github.io/match09/match09/samples04/ㄧㄞ.png##https://anne201.github.io/match09/match09/samples04/ㄧㄞ.mp3
+https://anne201.github.io/match09/match09/samples04/ㄧㄞˊ.png##https://anne201.github.io/match09/match09/samples04/ㄧㄞˊ.mp3
 https://anne201.github.io/match09/match09/samples04/ㄧㄠ.png##https://anne201.github.io/match09/match09/samples04/ㄧㄠ.mp3
 https://anne201.github.io/match09/match09/samples04/ㄧㄡ.png##https://anne201.github.io/match09/match09/samples04/ㄧㄡ.mp3
 https://anne201.github.io/match09/match09/samples04/ㄧㄢ.png##https://anne201.github.io/match09/match09/samples04/ㄧㄢ.mp3
