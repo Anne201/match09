@@ -5,7 +5,7 @@
 //------------------------------
 //遊戲標題
 //------------------------------
-title = '韻符對對碰';
+title = 'ㄨ和ㄩ的結合韻';
 
 //------------------------------
 //卡片上文字的字體名稱
@@ -103,21 +103,17 @@ fields_seperator2 = '~~';
 // 多內容用 fields_seperator2(~~) 分隔，會用亂數取用其中一個
 //
 questionLines = function(){/*--這一行請勿更改--
-https://anne201.github.io/match09/match09/samples03/ㄧ.png##https://anne201.github.io/match09/match09/samples03/ㄧ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄨ.png##https://anne201.github.io/match09/match09/samples03/ㄨ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄩ.png##https://anne201.github.io/match09/match09/samples03/ㄩ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄚ.png##https://anne201.github.io/match09/match09/samples03/ㄚ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄛ.png##https://anne201.github.io/match09/match09/samples03/ㄛ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄜ.png##https://anne201.github.io/match09/match09/samples03/ㄜ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄝ.png##https://anne201.github.io/match09/match09/samples03/ㄝ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄞ.png##https://anne201.github.io/match09/match09/samples03/ㄞ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄟ.png##https://anne201.github.io/match09/match09/samples03/ㄟ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄠ.png##https://anne201.github.io/match09/match09/samples03/ㄠ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄡ.png##https://anne201.github.io/match09/match09/samples03/ㄡ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄢ.png##https://anne201.github.io/match09/match09/samples03/ㄢ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄣ.png##https://anne201.github.io/match09/match09/samples03/ㄣ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄤ.png##https://anne201.github.io/match09/match09/samples03/ㄤ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄥ.png##https://anne201.github.io/match09/match09/samples03/ㄥ.mp3
-https://anne201.github.io/match09/match09/samples03/ㄦ.png##https://anne201.github.io/match09/match09/samples03/ㄦ.mp3
------*/}.toString().replace(/\r/g,"").slice("function(){/*--這一行請勿更改--".length+1,-9);
+https://anne201.github.io/match09/match09/samples05/ㄨㄚ.png##https://anne201.github.io/match09/match09/samples05/ㄨㄚ.mp3
+https://anne201.github.io/match09/match09/samples05/ㄨㄛ.png##https://anne201.github.io/match09/match09/samples05/ㄨㄛ.mp3
+https://anne201.github.io/match09/match09/samples05/ㄨㄞ.png##https://anne201.github.io/match09/match09/samples05/ㄨㄞ.mp3
+https://anne201.github.io/match09/match09/samples05/ㄨㄟ.png##https://anne201.github.io/match09/match09/samples05/ㄨㄟ.mp3
+https://anne201.github.io/match09/match09/samples05/ㄨㄢ.png##https://anne201.github.io/match09/match09/samples05/ㄨㄢ.mp3
+https://anne201.github.io/match09/match09/samples05/ㄨㄣ.png##https://anne201.github.io/match09/match09/samples05/ㄨㄣ.mp3
+https://anne201.github.io/match09/match09/samples05/ㄨㄤ.png##https://anne201.github.io/match09/match09/samples05/ㄨㄤ.mp3
+https://anne201.github.io/match09/match09/samples05/ㄨㄥ.png##https://anne201.github.io/match09/match09/samples05/ㄨㄥ.mp3
+https://anne201.github.io/match09/match09/samples05/ㄩㄝ.png##https://anne201.github.io/match09/match09/samples05/ㄩㄝ.mp3
+https://anne201.github.io/match09/match09/samples05/ㄩㄢ.png##https://anne201.github.io/match09/match09/samples05/ㄩㄢ.mp3
+https://anne201.github.io/match09/match09/samples05/ㄩㄣ.png##https://anne201.github.io/match09/match09/samples05/ㄩㄣ.mp3
+https://anne201.github.io/match09/match09/samples05/ㄩㄥ.png##https://anne201.github.io/match09/match09/samples05/ㄩㄥ.mp3
+----*/}.toString().replace(/\r/g,"").slice("function(){/*--這一行請勿更改--".length+1,-9);
 
